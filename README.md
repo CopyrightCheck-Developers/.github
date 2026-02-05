@@ -1,2 +1,4 @@
-# .github
-base repo for org
+# CopyRightCheck developers
+
+welcome/welkom! 
+This will be filled later...
